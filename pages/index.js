@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Pain</a>
+          Welcome to <a href="https://pain-docs.vercel.app/docs/intro">Pain</a>
         </h1>
 
         <div className={styles.grid}>
