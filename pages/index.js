@@ -13,11 +13,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://pain-docs.vercel.app/docs/intro">Pain</a>
+          Welcome to <a href="https://github.com/pain-lang/pain">Pain</a>
         </h1>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://pain-docs.vercel.app/docs/intro" className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Find in-depth information about Pain features</p>
           </a>
